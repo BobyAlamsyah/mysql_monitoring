@@ -1,6 +1,6 @@
 tee PM_MySQLDB_13062022.log
 
-SELECT '### SCRIPT BY PT.MII ###' FROM DUAL;
+SELECT '### SCRIPT BY PT.NTT ###' FROM DUAL;
 
 
 SELECT '### 1. Status MySQL ###' FROM DUAL;
